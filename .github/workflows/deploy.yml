@@ -35,4 +35,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: r2 object put wilpos-releases/wilpos-web-terminal.zip --file=wilpos-web-terminal.zip
+          command: r2 object put wilpos-downloads/wilpos-web-terminal.zip --file=wilpos-web-terminal.zip
