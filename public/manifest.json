@@ -1,0 +1,16 @@
+{
+  "name": "WilPOS Terminal",
+  "short_name": "WilPOS",
+  "description": "Mini terminal de punto de venta",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
